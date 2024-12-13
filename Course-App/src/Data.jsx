@@ -30,7 +30,7 @@ export const courses = [
     },
     {
         id: 4530,
-        title: "Modern Web Geliştirme Eğitimi",
+        title: "Modern Web Geliştirme",
         description: "Kursu tamamladığınızda modern web geliştirme teknolojilerini öğrenmiş olacaksınız.",
         price: 250,
         link: "https://www.udemy.com/course/modern-web-gelistirme-kursu-sifirdan-ileri-seviyeye/",
